@@ -14,7 +14,7 @@ namespace Work
             int week = int.Parse(Console.ReadLine());
 
             switch (week)
-                {
+            {
                 case 1:
                     Console.WriteLine("Monday");
                     break;
@@ -30,7 +30,7 @@ namespace Work
                 case 5:
                     Console.WriteLine("Friday");
                     break;
-                    case 6:
+                case 6:
                     Console.WriteLine("Saturday");
                     break;
                 case 7:
