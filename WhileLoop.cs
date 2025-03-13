@@ -10,11 +10,12 @@ namespace Work
     {
         static void Main(string[] args)
         {
-            int i = 0;
+            int number = 3;
+            int i = 1;
 
             while(i <= 10)
             {
-                Console.WriteLine(i);
+                Console.WriteLine($"{number} X {i} = {number*i}");
                 i++;
             }
             Console.WriteLine("Loop Ended");
