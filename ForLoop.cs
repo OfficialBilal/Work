@@ -10,9 +10,11 @@ namespace Work
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <= 10; i++)
+            int num = 5;
+
+            for ( int i = 1; i <= 10; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine($"{num} X {i} = {i*num}");
             }
             Console.WriteLine("Loop Ended");
         }

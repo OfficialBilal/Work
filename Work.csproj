@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Work.Do_While</StartupObject>
+    <StartupObject>Work.ForLoop</StartupObject>
   </PropertyGroup>
 
 </Project>

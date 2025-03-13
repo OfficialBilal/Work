@@ -11,7 +11,6 @@ namespace Work
         static void Main(string[] args)
         {
             int num = 1;
-
             do
             {
                 Console.WriteLine(num);
@@ -19,7 +18,7 @@ namespace Work
             }
             while (num <= 10);
 
-            Console.WriteLine("Loop Ended");
+            Console.WriteLine("Do While Loop Ended");
         }
     }
 }
