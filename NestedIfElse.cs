@@ -42,6 +42,10 @@ namespace Work
                         Console.WriteLine("Invalid Choice, Please Selecct Yes or No");
                     }
                 } while (choice != "yes" && choice != "no");
+                if (choice == "no")
+                {
+                    Console.WriteLine("Program Ended");
+                }
             } while (choice == "yes");
         }
     }
