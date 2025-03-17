@@ -12,6 +12,7 @@ namespace Work
         {
             int FN, SN;
             string choice;
+
         start:
 
             while (true)
@@ -23,7 +24,7 @@ namespace Work
                 }
                 else
                 {
-                    Console.WriteLine("Invalid Choice");
+                    Console.WriteLine("Invalid Choice, PLease Enter Number Only");
                 }
             }
 
