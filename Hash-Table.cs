@@ -9,7 +9,7 @@ namespace Work
 {
     class Hash_Table
     {
-        void Main(string[] args)
+        public void Main(string[] args)
         {
             HashSet<int> t = new();
 
