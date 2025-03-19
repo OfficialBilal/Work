@@ -23,7 +23,7 @@ namespace Work
             }
         }
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             NewClass a = new NewClass();
             a.Name = "Muhmmad ";

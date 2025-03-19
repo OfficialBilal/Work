@@ -8,7 +8,7 @@ namespace Work
 {
     class Restart
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             int FN, SN;
             string choice;

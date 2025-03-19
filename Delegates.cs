@@ -30,7 +30,7 @@ namespace Work
             int result = a + b;
             Console.WriteLine($"The Division result is: {result}");
         }
-        public static void Main(string[] args)
+        public  void Main(string[] args)
         {
             Calculation x = new Calculation(Delegates.Addition);
             x(10,10);

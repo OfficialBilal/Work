@@ -29,7 +29,7 @@ namespace Work
             Console.WriteLine($"The Division result is {result}");
         }
 
-        static void Main(string[] args)
+         void Main(string[] args)
         {
             Console.WriteLine("Enter first number");
             int num1 = int.Parse(Console.ReadLine());

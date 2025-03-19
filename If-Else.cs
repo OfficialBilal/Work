@@ -8,7 +8,7 @@ namespace Work
 {
     class If_Else
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             Console.WriteLine("Enter your Marks");
             int num = int.Parse(Console.ReadLine());

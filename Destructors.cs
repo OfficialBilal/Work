@@ -32,7 +32,7 @@ class Person
 
 class Destructors
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         Test(); 
         GC.Collect();

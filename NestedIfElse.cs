@@ -4,7 +4,7 @@ namespace Work
 {
     internal class NestedIfElse
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             string email, password;
             string choice;

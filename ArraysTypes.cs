@@ -12,7 +12,7 @@ namespace Work
         {
            Console.WriteLine("Your name is " + name + " and your age is " + age);
         }
-        static void Main(string[] args)
+         void Main(string[] args)
         {
 
             ArraysTypes.Name();
@@ -40,13 +40,13 @@ namespace Work
 
 
 
-            Multi Dimensional Array
-            int[,] a = new int[3, 4]
-            {
-                { 1, 2, 3, 4 },
-                { 5, 6, 7, 8 },
-                { 9, 10, 11, 12}
-            };
+            //Multi Dimensional Array
+            //int[,] a = new int[3, 4]
+            //{
+            //    { 1, 2, 3, 4 },
+            //    { 5, 6, 7, 8 },
+            //    { 9, 10, 11, 12}
+            //};
 
 
         }

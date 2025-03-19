@@ -8,7 +8,7 @@ namespace Work
 {
     class ForLoop
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             int num = 5;
 

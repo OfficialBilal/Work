@@ -2,7 +2,7 @@
 {
     class SwitchCase
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             while (true)
                 {

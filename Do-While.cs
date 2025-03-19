@@ -8,7 +8,7 @@ namespace Work
 {
     class Do_While
     {
-        static void Main(string[] args)
+         void Main(string[] args)
         {
             int num = 1;
             do

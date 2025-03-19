@@ -8,7 +8,7 @@ namespace Work
 {
     class NestedSwitchCase
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             Console.WriteLine("Enter Pizza Flavour");
             string pizza = (Console.ReadLine());

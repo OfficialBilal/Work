@@ -8,7 +8,7 @@ namespace Work
 {
     class WhileLoop
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             int number = 3;
             int i = 1;

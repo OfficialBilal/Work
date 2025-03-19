@@ -8,7 +8,7 @@ namespace Work
 {
     class Jump_Statement
     {
-        static void Main(string[] args)
+        void Main(string[] args)
         {
 
             //for (int i = 0; i <= 10; i++)
