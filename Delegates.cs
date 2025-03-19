@@ -35,7 +35,7 @@ namespace Work
             Calculation x = new Calculation(Delegates.Addition);
             x(10,10);
             x = Multiplication;
-            x(2, 2);
+            x(2, 5);
             Console.ReadLine();
         }
     }
