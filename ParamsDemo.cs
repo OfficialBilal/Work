@@ -11,8 +11,8 @@ namespace Work
         public static int add(params int[] num)
         {
             int sum = 0;
-            foreach(int i in num)
-            {
+            foreach(int i in  num)
+            { 
                 sum = sum + i;
             }
             return sum;
