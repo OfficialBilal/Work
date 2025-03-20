@@ -10,6 +10,6 @@ public partial class PartialDemo
 {
     public string GetFullName()
     {
-        return _firstName + " " + _lastName;
+        return  _firstName + " " + _lastName;
     }
 }

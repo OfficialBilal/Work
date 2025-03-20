@@ -12,7 +12,7 @@ class PartialClass
 	{
         PartialDemo p = new PartialDemo();
         p.FirstName = "Muhammad";
-        p.LastName = "Bilal";
+        p.LastName = "Ali";
         p.GetFullName();
 
     }

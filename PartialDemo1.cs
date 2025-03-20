@@ -15,7 +15,7 @@ public partial class PartialDemo
     public string FirstName
     {
         set { _firstName = value; }
-        get { return _firstName; }
+        get { return  _firstName; }
     }
 
     public string LastName
