@@ -34,7 +34,7 @@ namespace Work
 
             StringBuilder sb = new StringBuilder("Hello Bilal");
             sb.Insert(5," C#");
-            sb.AppendFormat("{0:c}", 25);
+            sb.AppendFormat("{0:c}", 23);
             sb.Remove(3,4);
             string newstring = sb.ToString();
             Console.WriteLine(sb);
